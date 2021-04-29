@@ -1,0 +1,19 @@
+{
+  "properties": [
+    {
+      "name": "tipsntricks.sec.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for tipsntricks.sec.jwtSecret."
+    },
+    {
+      "name": "tipsntricks.sec.jwtExpirationMs",
+      "type": "java.lang.String",
+      "description": "Description for tipsntricks.sec.jwtExpirationMs."
+    },
+    {
+      "name": "tipsntricks.sec.jwtSecret",
+      "type": "java.lang.String",
+      "description": "Description for tipsntricks.sec.jwtSecret."
+    }
+  ]
+}
